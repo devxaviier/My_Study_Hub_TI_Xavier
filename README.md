@@ -1,61 +1,64 @@
-My Study Hub — Xavier
+# 📚 My Study Hub — Theo Xavier
 
-> Portfólio acadêmico e profissional desenvolvido ao longo da graduação em Engenharia de Software.
+Repositório acadêmico de **Theo Xavier**, estudante de **Engenharia de Software no CEUB**. Aqui reúno meu perfil, as atividades das disciplinas do semestre, meus projetos e certificados, tudo versionado com Git.
 
-Sobre mim
+🌐 **Portfólio online:** [GitHub Page](https://devxaviier.github.io/My_Study_Hub_TI_Xavier/)
+💼 **LinkedIn:** [Theo Xavier](https://www.linkedin.com/in/xavier-melo-419985425/?isSelfProfile=true)
 
-Sou estudante de Engenharia de Software no CEUB, interessado em compreender como diferentes áreas da tecnologia se conectam para transformar conhecimentos em soluções reais.
+---
 
-Atualmente, meu principal foco está no desenvolvimento Backend, especialmente com Java, enquanto desenvolvo conhecimentos relacionados a bancos de dados e Cloud Computing.
+## 🗂️ Estrutura do repositório
 
-Este repositório acompanha minha evolução durante a graduação, reunindo atividades acadêmicas, anotações, projetos e conhecimentos desenvolvidos ao longo da minha formação.
+```text
+My_Study_Hub_TI_Xavier/
+├── 01_Apresentacao_e_Perfil/
+│   ├── Perfil_Profissional/
+│   ├── Objetivos_Profissionais/
+│   └── Interesses_de_Carreira/
+├── 02_Disciplinas_Atuais/
+│   ├── 01_BootCamp_I/
+│   ├── 02_Fundamentos_da_Engenharia/
+│   ├── 03_Analise_e_Projetos_de_Sistemas/
+│   ├── 04_Introducao_a_Computacao/
+│   ├── 05_Desenvolvimento_de_Interfaces/
+│   └── 06_Banco_de_Dados_I/
+├── 03_Projetos_e_Certificados/
+│   ├── Projetos/
+│   └── Certificados/
+├── index.html
+└── README.md
+```
 
-Áreas de interesse
+## 👤 Apresentação e perfil
 
-- Backend: Java, APIs, lógica de negócio e desenvolvimento de aplicações.
-- Banco de Dados: modelagem, SQL, PostgreSQL e integração com aplicações.
-- Cloud Computing: desenvolvimento, implantação, infraestrutura e escalabilidade.
-- Engenharia de Software: boas práticas, arquitetura, organização e desenvolvimento de sistemas.
+| Pasta | O que você encontra |
+|---|---|
+| [Perfil profissional](./01_Apresentacao_e_Perfil/Perfil_Profissional) | Formação e habilidades |
+| [Objetivos profissionais](./01_Apresentacao_e_Perfil/Objetivos_Profissionais) | Onde quero chegar na carreira |
+| [Interesses de carreira](./01_Apresentacao_e_Perfil/Interesses_de_Carreira) | Áreas que mais me interessam |
 
-Disciplinas
+## 🎓 Disciplinas atuais
 
-Atualmente, este Study Hub reúne materiais das seguintes disciplinas:
+- [Bootcamp I](./02_Disciplinas_Atuais/01_BootCamp_I)
+- [Fundamentos da Engenharia](./02_Disciplinas_Atuais/02_Fundamentos_da_Engenharia)
+- [Análise e Projetos de Sistemas](./02_Disciplinas_Atuais/03_Analise_e_Projetos_de_Sistemas)
+- [Introdução à Computação](./02_Disciplinas_Atuais/04_Introducao_a_Computacao)
+- [Desenvolvimento de Interfaces](./02_Disciplinas_Atuais/05_Desenvolvimento_de_Interfaces)
+- [Banco de Dados I](./02_Disciplinas_Atuais/06_Banco_de_Dados_I)
 
-| Disciplina                     | Conteúdo                                                              |
-| ------------------------------ | --------------------------------------------------------------------- |
-| BootCamp I                     | Atividades, projetos e conhecimentos desenvolvidos durante o BootCamp |
-| Fundamentos da Engenharia      | Conceitos fundamentais da Engenharia de Software                      |
-| Análise e Projetos de Sistemas | Análise, modelagem e desenvolvimento de sistemas                      |
-| Introdução à Computação        | Fundamentos da computação e tecnologia                                |
-| Desenvolvimento de Interfaces  | Conceitos relacionados ao desenvolvimento de interfaces               |
-| Banco de Dados I               | Modelagem, SQL e fundamentos de bancos de dados                       |
+## 🚀 Projetos e certificados
 
-Objetivo
+- **[Projetos](./03_Projetos_e_Certificados/Projetos)**: inclui o sistema de alertas de remédios e consultas para idosos.
+- **[Certificados](./03_Projetos_e_Certificados/Certificados)**: cursos e certificações concluídos.
 
-O objetivo do Study Hub é registrar minha evolução acadêmica e técnica ao longo da graduação, transformando o conhecimento adquirido em projetos e materiais que possam ser consultados e aprimorados continuamente.
+## 🛠️ Como navegar
 
-Além de funcionar como um espaço de estudos, este repositório representa a construção gradual do meu **portfólio profissional**, reunindo evidências práticas do meu aprendizado e dos projetos que desenvolverei durante minha formação.
+1. Acesse o [portfólio online](https://devxaviier.github.io/My_Study_Hub_TI_Xavier/) para uma visão geral.
+2. Use a estrutura acima para abrir direto a pasta que quiser.
+3. Veja o histórico de commits para acompanhar a evolução do repositório.
 
-Tecnologias e ferramentas
+## 📬 Contato
 
-As tecnologias serão adicionadas conforme forem sendo estudadas e utilizadas nos projetos.
-
-Atualmente:
-
-- Java
-- SQL
-- PostgreSQL
-- Git
-- GitHub
-- Markdown
-
-Evolução
-
-Este repositório está em constante construção.
-
-Cada nova disciplina, projeto, atividade ou tecnologia estudada será incorporada ao Study Hub, criando um histórico da minha evolução ao longo da graduação.
-
-Theo Xavier
-Engenharia de Software • CEUB
-
-[GitHub](https://github.com/devxaviier)
+- E-mail: seu@email.com
+- [LinkedIn](https://www.linkedin.com/in/xavier-melo-419985425/?isSelfProfile=true)
+- [GitHub](https://github.com/devxaviier)
