@@ -1,4 +1,4 @@
-# 📚 My Study Hub — Theo Xavier
+# My Study Hub — Theo Xavier
 
 Repositório acadêmico de **Theo Xavier**, estudante de **Engenharia de Software no CEUB**. Aqui reúno meu perfil, as atividades das disciplinas do semestre, meus projetos e certificados, tudo versionado com Git.
 
@@ -59,6 +59,6 @@ My_Study_Hub_TI_Xavier/
 
 ## 📬 Contato
 
-- E-mail: seu@email.com
+- E-mail: contactxaviier@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/xavier-melo-419985425/?isSelfProfile=true)
 - [GitHub](https://github.com/devxaviier)
