@@ -60,5 +60,5 @@ My_Study_Hub_TI_Xavier/
 ## 📬 Contato
 
 - E-mail: contactxaviier@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/xavier-melo-419985425/?isSelfProfile=true)
+- [LinkedIn](https://www.linkedin.com/in/theoxaviier)
 - [GitHub](https://github.com/devxaviier)
