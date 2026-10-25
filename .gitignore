@@ -1,0 +1,29 @@
+# Java compilado e builds
+*.class
+*.jar
+*.war
+target/
+build/
+out/
+.gradle/
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+*.pem
+*.key
+application-local.properties
+application-secrets.properties
+secrets.*
+
+# Banco de dados local e dumps
+*.dump
+*.sql.bak
+pgpass.conf
+
+# IDE e sistema
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
