@@ -3,7 +3,7 @@
 Repositório acadêmico de **Theo Xavier**, estudante de **Engenharia de Software no CEUB**. Aqui reúno meu perfil, as atividades das disciplinas do semestre, meus projetos e certificados, tudo versionado com Git.
 
 🌐 **Portfólio online:** [GitHub Page](https://devxaviier.github.io/My_Study_Hub_TI_Xavier/)
-💼 **LinkedIn:** [Theo Xavier](https://www.linkedin.com/in/xavier-melo-419985425/?isSelfProfile=true)
+💼 **LinkedIn:** [Theo Xavier](https://www.linkedin.com/in/theoxaviier)
 
 ---
 
