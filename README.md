@@ -15,7 +15,7 @@ My_Study_Hub_TI_Xavier/
 │   ├── Perfil_Profissional/
 │   ├── Objetivos_Profissionais/
 │   └── Interesses_de_Carreira/
-├── 02_Disciplinas_Atuais/
+├── 02_Disciplinas_Atuais/Primeiro_Semestre
 │   ├── 01_BootCamp_I/
 │   ├── 02_Fundamentos_da_Engenharia/
 │   ├── 03_Analise_e_Projetos_de_Sistemas/
@@ -25,8 +25,9 @@ My_Study_Hub_TI_Xavier/
 ├── 03_Projetos_e_Certificados/
 │   ├── Projetos/
 │   └── Certificados/
-├── index.html
-└── README.md
+├── .gitignore
+├──  README.md
+└──  index.html
 ```
 
 ## 👤 Apresentação e perfil
