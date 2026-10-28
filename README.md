@@ -40,12 +40,12 @@ My_Study_Hub_TI_Xavier/
 
 ## 🎓 Disciplinas atuais
 
-- [Bootcamp I](./02_Disciplinas_Atuais/01_BootCamp_I)
-- [Fundamentos da Engenharia](./02_Disciplinas_Atuais/02_Fundamentos_da_Engenharia)
-- [Análise e Projetos de Sistemas](./02_Disciplinas_Atuais/03_Analise_e_Projetos_de_Sistemas)
-- [Introdução à Computação](./02_Disciplinas_Atuais/04_Introducao_a_Computacao)
-- [Desenvolvimento de Interfaces](./02_Disciplinas_Atuais/05_Desenvolvimento_de_Interfaces)
-- [Banco de Dados I](./02_Disciplinas_Atuais/06_Banco_de_Dados_I)
+- [Bootcamp I](./02_Disciplinas_Atuais/Primeiro_Semestre/01_BootCamp_I)
+- [Fundamentos da Engenharia](./02_Disciplinas_Atuais/Primeiro_Semestre/02_Fundamentos_da_Engenharia)
+- [Análise e Projetos de Sistemas](./02_Disciplinas_Atuais/Primeiro_Semestre/03_Analise_e_Projetos_de_Sistemas)
+- [Introdução à Computação](./02_Disciplinas_Atuais/Primeiro_Semestre/04_Introducao_a_Computacao)
+- [Desenvolvimento de Interfaces](./02_Disciplinas_Atuais/Primeiro_Semestre/05_Desenvolvimento_de_Interfaces)
+- [Banco de Dados I](./02_Disciplinas_Atuais/Primeiro_Semestre/06_Banco_de_Dados_I)
 
 ## 🚀 Projetos e certificados
 
